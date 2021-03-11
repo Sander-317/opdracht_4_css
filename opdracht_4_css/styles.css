@@ -1,0 +1,44 @@
+body{
+    font-family:'Roboto' Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.black-border{
+border:5px solid black;
+margin: 1em;
+border-radius:1em;
+
+}
+
+#green-background{
+    background-color:green;
+    border:5px solid
+
+
+}
+
+img {
+
+transform:rotate(90deg);
+
+
+}
+
+a {
+    text-decoration: none;
+    margin-left:1em;
+
+
+}
+
+a:hover {
+    color:darkslategray;
+    }
+
+.stamp {
+        width: 200px;
+      
+        background: #fff url(george.jpg) no-repeat;
+        border: 12px dashed #1b1a19; }
+
